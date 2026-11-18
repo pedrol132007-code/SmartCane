@@ -1,6 +1,6 @@
 # SmartCane
 Arduino-based smart cane prototype focused on obstacle detection using ultrasonic sensors. Developed as a practical project combining embedded systems, programming, electronics, and accessibility-focused technology.
-esigned to assist visually impaired people through real-time obstacle detection.
+It is designed to assist visually impaired people through real-time obstacle detection.
 ## Features
 - Ultrasonic obstacle detection
 - Buzzer alert system
